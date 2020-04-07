@@ -1,4 +1,12 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Roman Numeral Converter and Utilities 
+
+A small and simply roman number converter, Project created with create-react-app
+
+You input an integer and we return that roman numerical converted.
+
+Covers numbers in the range of '1 - 4999' to Roman Numeral functionality.
+
+![Screen](https://github.com/venkatesharepalli/roman.png)
 
 ## Available Scripts
 
