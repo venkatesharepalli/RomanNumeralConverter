@@ -6,7 +6,7 @@ You input an integer and we return that roman numerical converted.
 
 Covers numbers in the range of '1 - 4999' to Roman Numeral functionality.
 
-![Screen](https://github.com/venkatesharepalli/roman.png)
+![Screen](https://github.com/venkatesharepalli/RomanNumeralConverter/blob/master/public/roman.png)
 
 ## Available Scripts
 
