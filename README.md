@@ -2,7 +2,7 @@
 
 A small and simply roman number converter, Project created with create-react-app
 
-You input an integer and we return that roman numerical converted.
+You input an integer and we return that roman number.
 
 Covers numbers in the range of '1 - 4999' to Roman Numeral functionality.
 
